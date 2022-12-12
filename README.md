@@ -1,6 +1,6 @@
 ![MasterHead](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1920,h_480/https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg)
 <h1 align="center">Hi 👋, I'm Nayely!</h1>
-<h3 align="center">Im a full stack developer from SoCal 🌞</h3>
+<h3 align="center">A full stack developer from SoCal 🌞</h3>
 <img align="right" alt="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayely18&label=Profile%20views&color=0e75b6&style=flat" alt="nayely18" /> </p>
