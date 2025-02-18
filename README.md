@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nayelyperez018@gmail.com**
 
-- ⚡ Fun fact **I have a cute schnauzer, his name is Gunther!🐶 **
+- ⚡ Fun fact **I'm learning how to sew, I recently made myself a hoodie! ✂️ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
